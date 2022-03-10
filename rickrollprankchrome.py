@@ -4,8 +4,8 @@ import pyttsx3
 driverroll = webdriver.Chrome(executable_path="") # <-- Enter the location of your webdriver and don't forget to add double backslashes.
 speakroll = pyttsx3.init()
 driverroll.minimize_window()
-print("This is a prank made by Shubu909 and he's the respective owner of this file and coded this.")
-speakroll.say("This is a prank made by francisco neto and he's the respective owner of this file and coded this.")
+print("This is a prank made by bombas didaxis and he's the respective owner of this file and coded this.")
+speakroll.say("This is a prank made by bombas didaxis and he's the respective owner of this file and coded this.")
 speakroll.runAndWait()
 speakroll.say("BOMBA!")
 driverroll.maximize_window()
